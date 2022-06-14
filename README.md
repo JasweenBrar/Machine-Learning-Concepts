@@ -9,7 +9,7 @@ Learning concepts of Machine Learning and their basic application through python
 <br>
 <b> Concept-4 </b>: Logistic Regression
 <br>
-<b> Concept-5 </b>: 
+<b> Concept-5 </b>: Decision Tree Classifier
 <br>
 <b> Concept-6 </b>: Random Forest Classifier
 <br>
